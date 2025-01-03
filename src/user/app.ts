@@ -1,1 +1,1 @@
-export const result = new Promise(resolve => {})
+export const result1 = new Promise(resolve => {})

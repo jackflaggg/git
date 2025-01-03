@@ -1,0 +1,1 @@
+export const result = new Promise(resolve => {})
